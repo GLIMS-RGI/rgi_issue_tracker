@@ -1,8 +1,8 @@
 ---
-name: Issue report
-about: Report an issue to help us improve the RGI
-title: "[ISSUE]"
-labels: ''
+name: Issue report for RGI 6.0
+about: Report an issue to help us improve the RGI (for RGI 6.0 only!)
+title: ""
+labels: 'RGI 6.0'
 assignees: ''
 
 ---
