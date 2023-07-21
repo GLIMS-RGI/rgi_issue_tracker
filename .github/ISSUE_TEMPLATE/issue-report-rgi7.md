@@ -1,14 +1,14 @@
 ---
-name: Issue report for RGI 6.0
-about: Report an issue to help us improve the RGI (for RGI 6.0 only!)
+name: Issue report for RGI 7.0
+about: Report an issue to help us improve the RGI (for RGI 7.0 only!)
 title: ""
-labels: 'RGI 6.0'
+labels: 'RGI 7.0'
 assignees: ''
 
 ---
 
 **RGI version**
-RGI v6.0
+RGI v7.0
 
 **Describe the issue**
 A clear and concise description of what the issue is.
@@ -24,3 +24,4 @@ Any idea you might have to solve the issue
 
 **Additional context**
 Add any other context about the problem here.
+
