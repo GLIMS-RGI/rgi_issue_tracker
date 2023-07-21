@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for the RGI
-title: "[FEATURE]"
-labels: ''
+title: ""
+labels: 'enhancement'
 assignees: ''
 
 ---
