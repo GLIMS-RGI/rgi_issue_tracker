@@ -10,3 +10,5 @@ assignees: ''
 *Note that we will only list open-access datasets covering at least one RGI region
 that are directly derived from and clearly extend or enrich the RGI —
 for example, a new ice velocity or debris cover product.*
+
+**Provide a download link and a reference publication for the dataset:**
